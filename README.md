@@ -33,4 +33,4 @@
 
 **Bonus Part Requirements**:
 - Develop `get_next_line()` using only one static variable.
-- Your `get_next_line()` can manage multiple file descriptors at the same time.
+- `get_next_line()` can manage multiple file descriptors at the same time.
